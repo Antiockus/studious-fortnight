@@ -9,3 +9,26 @@
     width:95%;
     margin: 0 auto;
 }
+
+.header {
+    height:100px;
+    width: 100%;
+    display: block;
+    border:1px solid black;
+}
+.body {
+    display:block;
+    width:100%;
+    height:500px;
+    border:1px solid red;
+}
+.left-column {
+    width: 200px;
+    height:500px;
+    border:1px solid green;
+}
+
+.button {
+
+}
+.right-column {}
